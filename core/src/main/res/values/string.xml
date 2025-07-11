@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="chat_notifications_channel_id" translatable="false">chat_messages_channel</string>
+    <string name="chat_notifications_channel_name">Уведомления чата</string>
+    <string name="chat_notifications_channel_description">Уведомления о новых сообщениях в чатах</string>
+</resources>
